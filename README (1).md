@@ -92,3 +92,4 @@ El proyecto está compuesto por las siguientes clases y subclases:
     -
     `agregarHospedaje(String codServicio, double porcentajeDescuento, boolean enPromocion, String hospedaje, double precioPorNoche)`:
     Agrega un servicio de hospedaje al sistema.
+    profe en el punto 4-2 no puse ninugno servicio al sistema con las fechas que me dice que busque porque en el 3 no me dice una fecha, yo en mi clase servicio cada una tiene una fecha en el momento, los quu si me dicen es el 2-1 pero no me dicen agregar
